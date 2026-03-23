@@ -1,6 +1,6 @@
 {
-  "name": "Flash UI with Multi-Role Login",
-  "description": "A high-fidelity UI generator with secure login for Admin, Educator, Student, and Enterprise users.",
+  "name": "Category & Simulation Manager",
+  "description": "A management dashboard for categories and a home page for simulation guest access.",
   "requestFramePermissions": [],
   "prompt": ""
 }
